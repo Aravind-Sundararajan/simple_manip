@@ -1,8 +1,13 @@
 /// @description Insert description here
 // You can write your code in this editor
+
 /*
 draw_text(250,10,"theta 1:"+string(theta_1*180/pi))
-draw_text(10,10,"theta 1:"+string(delta_theta*180/pi))
+draw_text(250,30,"theta 2:"+string(theta_2*180/pi))
+draw_text(250,50,"theta 3:"+string(theta_3*180/pi))
+draw_text(10,170,"theta 1:"+string(delta_theta_1*180/pi))
+draw_text(130,170,"theta 2:"+string(delta_theta_2*180/pi))
+draw_text(270,170,"theta 3:"+string(delta_theta_3*180/pi))
 draw_text(10,50,"delta x:"+string(delta_x*180/pi))
 draw_text(10,70,"delta y:"+string(delta_y*180/pi))
 draw_text(250,70,"dist:"+string(mag))

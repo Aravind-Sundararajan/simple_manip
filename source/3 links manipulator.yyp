@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"obj_plant_3link","path":"objects/obj_plant_3link/obj_plant_3link.yy",},"order":7,},
     {"id":{"name":"obj_link3","path":"objects/obj_link3/obj_link3.yy",},"order":5,},
     {"id":{"name":"spr_plant","path":"sprites/spr_plant/spr_plant.yy",},"order":1,},
     {"id":{"name":"spr_endeffector","path":"sprites/spr_endeffector/spr_endeffector.yy",},"order":3,},
