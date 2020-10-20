@@ -1,17 +1,26 @@
 {
   "resources": [
     {"id":{"name":"obj_plant_3link","path":"objects/obj_plant_3link/obj_plant_3link.yy",},"order":7,},
+    {"id":{"name":"obj_button_link2","path":"objects/obj_button_link2/obj_button_link2.yy",},"order":1,},
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":1,},
     {"id":{"name":"obj_link3","path":"objects/obj_link3/obj_link3.yy",},"order":5,},
     {"id":{"name":"spr_plant","path":"sprites/spr_plant/spr_plant.yy",},"order":1,},
     {"id":{"name":"spr_endeffector","path":"sprites/spr_endeffector/spr_endeffector.yy",},"order":3,},
     {"id":{"name":"obj_link2","path":"objects/obj_link2/obj_link2.yy",},"order":2,},
+    {"id":{"name":"obj_hud","path":"objects/obj_hud/obj_hud.yy",},"order":9,},
     {"id":{"name":"spr_target","path":"sprites/spr_target/spr_target.yy",},"order":2,},
+    {"id":{"name":"obj_button_link3","path":"objects/obj_button_link3/obj_button_link3.yy",},"order":2,},
+    {"id":{"name":"spr_button_2link","path":"sprites/spr_button_2link/spr_button_2link.yy",},"order":5,},
     {"id":{"name":"obj_endeffector","path":"objects/obj_endeffector/obj_endeffector.yy",},"order":3,},
     {"id":{"name":"obj_target","path":"objects/obj_target/obj_target.yy",},"order":4,},
     {"id":{"name":"spr_link","path":"sprites/spr_link/spr_link.yy",},"order":0,},
+    {"id":{"name":"spr_button_3link","path":"sprites/spr_button_3link/spr_button_3link.yy",},"order":6,},
+    {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},"order":2,},
     {"id":{"name":"obj_link1","path":"objects/obj_link1/obj_link1.yy",},"order":1,},
     {"id":{"name":"obj_plant_1link","path":"objects/obj_plant_1link/obj_plant_1link.yy",},"order":0,},
     {"id":{"name":"obj_plant_2link","path":"objects/obj_plant_2link/obj_plant_2link.yy",},"order":6,},
+    {"id":{"name":"obj_button_link1","path":"objects/obj_button_link1/obj_button_link1.yy",},"order":0,},
+    {"id":{"name":"spr_button_1link","path":"sprites/spr_button_1link/spr_button_1link.yy",},"order":4,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
@@ -30,6 +39,8 @@
   },
   "RoomOrder": [
     {"name":"Room1","path":"rooms/Room1/Room1.yy",},
+    {"name":"Room2","path":"rooms/Room2/Room2.yy",},
+    {"name":"Room3","path":"rooms/Room3/Room3.yy",},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
@@ -46,6 +57,7 @@
     {"folderPath":"folders/Animation Curves.yy","order":12,"resourceVersion":"1.0","name":"Animation Curves","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Notes.yy","order":13,"resourceVersion":"1.0","name":"Notes","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Extensions.yy","order":14,"resourceVersion":"1.0","name":"Extensions","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects/buttons.yy","order":8,"resourceVersion":"1.0","name":"buttons","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":461609314234257646,"resourceVersion":"1.0","name":"audiogroup_default","resourceType":"GMAudioGroup",},
