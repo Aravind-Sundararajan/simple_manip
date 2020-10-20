@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_endeffector",
-    "path": "sprites/spr_endeffector/spr_endeffector.yy",
+    "name": "spr_link",
+    "path": "sprites/spr_link/spr_link.yy",
   },
   "solid": false,
   "visible": true,

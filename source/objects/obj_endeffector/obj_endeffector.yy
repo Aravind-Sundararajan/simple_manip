@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_plant",
-    "path": "sprites/spr_plant/spr_plant.yy",
+    "name": "spr_endeffector",
+    "path": "sprites/spr_endeffector/spr_endeffector.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,8 +21,8 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_plant","path":"objects/obj_plant/obj_plant.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_plant","path":"objects/obj_plant/obj_plant.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_endeffector","path":"objects/obj_endeffector/obj_endeffector.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_endeffector","path":"objects/obj_endeffector/obj_endeffector.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -31,7 +31,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_plant",
+  "name": "obj_endeffector",
   "tags": [],
   "resourceType": "GMObject",
 }
