@@ -1,4 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-draw_text(10,90,"click the buttons to change manipulator type")
-draw_text(10,70,"click the screen to change the desired target")
+display_set_gui_size(-1, -1);
+draw_text(10,display_get_gui_height() -50,"buttons change manipulator type")
+draw_text(10,display_get_gui_height() -30,"click screen to change target")
